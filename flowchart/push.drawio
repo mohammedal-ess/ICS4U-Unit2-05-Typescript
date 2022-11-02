@@ -4,32 +4,32 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                <mxCell id="2" style="edgeStyle=none;html=1;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="400" y="240" as="targetPoint"/>
                         <mxPoint x="400" y="170" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="8">
+                <mxCell id="4" style="edgeStyle=none;html=1;" parent="1" source="5" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="400" y="370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="get stack" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="5" value="get stack" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="240" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8">
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="400" y="450" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8" value="push number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="push number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="10" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="350" y="140" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="11" value="stoppp" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="350" y="450" width="100" height="60" as="geometry"/>
                 </mxCell>
             </root>
